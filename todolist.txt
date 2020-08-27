@@ -1,0 +1,13 @@
+- get the zip code as arg
+- get the temperature and humidity (or feelsLike temperature) based on zip code
+- input temp into two functions, selectTopGarment and selectBottomGarment
+    - also input temp to wearHeatAndGloves (boolean)
+- call above functions in getOutfit
+- sample output:
+outfit for 21044:
+t-shirt
+leggings
+
+OTHER:
+- all will go into self object
+- bottom will also take top into account if above certain temp
